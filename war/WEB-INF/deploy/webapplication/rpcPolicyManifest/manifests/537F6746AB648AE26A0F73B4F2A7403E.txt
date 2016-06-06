@@ -1,0 +1,2 @@
+serviceClass: com.gwt.webapplication.client.SortDataService
+path: 74CFD85588FC59ED57B158AC621BD06F.gwt.rpc
